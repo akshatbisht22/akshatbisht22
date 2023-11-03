@@ -3,7 +3,7 @@
 
 <a href="https://www.instagram.com/itz_akshatbisht/" style="text-decoration:none">Checkout my Instagram ></a>
 
-<p>Ranging from PHP to MySQL to Python , I have knowledge of 37 other languages :
+<p>Ranging from PHP to MySQL to Python , I have knowledge of 16 other languages :
 <ol>
 <li>HTML (Not a language)</li>
 <li>CSS</li>
@@ -16,4 +16,4 @@
 <li>Java</li>
 <li>React JS</li>
 </ol>
-<p>And 27 more languages , libraries and frameworks.</p>
+<p>And some more languages , libraries and frameworks.</p>
