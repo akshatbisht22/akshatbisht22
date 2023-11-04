@@ -1,4 +1,4 @@
-<img src="fk.jpg" style="height:290px">
+<img src="fk.jpg">
 <h1 style="text-align:center;">Hey  , What's up homie</h1>
 <p>Welcome to my Github Profile. I am a web developer who is destined to make professional websites.</p>
 
