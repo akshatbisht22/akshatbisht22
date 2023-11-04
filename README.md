@@ -18,3 +18,9 @@
 <li>React JS</li>
 </ol>
 <p>And some more languages , libraries and frameworks.</p>
+
+<hr>
+
+<img src="srccodeico.png">
+<img src="musicico.png">
+<img src="psico.png">
