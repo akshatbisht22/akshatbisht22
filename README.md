@@ -21,4 +21,4 @@
 
 <hr>
 
-<center><div style="display:flex;justify-content:space-around;flex-direction:column;"><img src="srccodeico.png" style="height:120px"><img src="musicico.png" style="height:120px"><img src="psico.png" style="height:120px"></div></center>
+<center><div style="display:flex;justify-content:center;flex-direction:column;"><img src="srccodeico.png" style="height:120px"><img src="musicico.png" style="height:120px"><img src="psico.png" style="height:120px"></div></center>
