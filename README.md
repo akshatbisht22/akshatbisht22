@@ -22,4 +22,4 @@
 
 <hr>
 
-<center><div style="display:flex;justify-content:center;flex-direction:column;"><img src="srccodeico.png" style="height:120px;margin:0px 120px;"><img src="musicico.png" style="height:120px;margin:0px 120px;"><img src="psico.png" style="height:120px;margin:0px 120px;"></div></center>
+<center><div style="display:flex;justify-content:center;flex-direction:column;"><img src="srccodeico.png" style="height:120px;margin:0px 120px;"><img src="musicico.png" style="height:120px;margin:0px 300px;"><img src="psico.png" style="height:300px;margin:0px 300px;"></div></center>
