@@ -1,4 +1,4 @@
-<img src="photo-1422728280635-45167d8b7197.jpg" style="height:200px">
+<img src="photo-1422728280635-45167d8b7197.jpg" style="height:290px">
 <h1 style="text-align:center;">Hey  , What's up homie</h1>
 <p>Welcome to my Github Profile. I am a web developer who is destined to make professional websites.</p>
 
