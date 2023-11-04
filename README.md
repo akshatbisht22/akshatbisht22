@@ -1,4 +1,4 @@
-<img src="LeT’s play.png">
+<img src="LeT’s play.png" STYLE="height:300px">
 <h1 style="width:100%;text-align:center">Hey  , What's up homie</h1>
 <p>Welcome to my Github Profile. I am a web developer who is destined to make professional websites.</p>
 
