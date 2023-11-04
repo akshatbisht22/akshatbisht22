@@ -20,4 +20,5 @@
 <p>And some more languages , libraries and frameworks.</p>
 
 <hr>
-<center><img src="srccodeico.png" style="height:120px"><img src="musicico.png" style="height:120px"><img src="psico.png" style="height:120px"></center>
+
+<center><div><img src="srccodeico.png" style="height:120px"><img src="musicico.png" style="height:120px"><img src="psico.png" style="height:120px"></div></center>
