@@ -21,6 +21,4 @@
 
 <hr>
 
-<img src="srccodeico.png" style="height:120px">
-<img src="musicico.png" style="height:120px">
-<img src="psico.png" style="height:120px">
+<img src="srccodeico.png" style="height:120px"><img src="musicico.png" style="height:120px"><img src="psico.png" style="height:120px">
