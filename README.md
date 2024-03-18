@@ -1,5 +1,5 @@
 
-<img src="LeT’s plays.png">
+<img src="c.png">
 <h1 style="width:100%;text-align:center">Hi , This is Akshat</h1>
 <p>Welcome to my Github Profile. I am a web developer who is destined to make professional websites.</p>
 
@@ -15,7 +15,8 @@
 <li>Python</li>
 <li>Angular JS</li>
 <li>Node JS</li>
-<li>Java</li>
+<li>Next JS</li>
 <li>React JS</li>
+<li>GIT</li>
 </ol>
 <p>And some more languages , libraries and frameworks.</p>
