@@ -1,5 +1,5 @@
 
-<img src="c.png">
+<img src="ds.png">
 <h1 style="width:100%;text-align:center">Hi , This is Akshat</h1>
 <p>Welcome to my Github Profile. I am a web developer who is destined to make professional websites.</p>
 
