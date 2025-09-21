@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Akshat Bisht  
+# 👋 Hey, I'm Akshat.
 
 🚀 **Web Developer | MERN Stack | Python | C++ | Video Editor | Music Producer**  
 
