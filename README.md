@@ -1,22 +1,41 @@
+# 👋 Hey, I'm Akshat Bisht  
 
-<img src="ds.png">
-<h1 style="width:100%;text-align:center">Hi , This is Akshat</h1>
-<p>Welcome to my Github Profile. I am a web developer who is destined to make professional websites.</p>
+🚀 **Web Developer | MERN Stack | Python | C++ | Video Editor | Music Producer**  
 
-<a href="https://www.instagram.com/mai_akshat_hu" style="text-decoration:none">Checkout my Instagram ></a>
+Welcome to my corner of GitHub! I’m passionate about crafting digital experiences — whether it’s **building scalable web apps, writing efficient code, or mixing beats** that vibe.  
 
-<p>Ranging from PHP to MySQL to Python , I have knowledge of 16 other languages :
-<ol>
-<li>HTML (Not a language)</li>
-<li>CSS</li>
-<li>Javascript</li>
-<li>PHP</li>
-<li>MySQL</li>
-<li>Python</li>
-<li>Angular JS</li>
-<li>Node JS</li>
-<li>Next JS</li>
-<li>React JS</li>
-<li>GIT</li>
-</ol>
-<p>And some more languages , libraries and frameworks.</p>
+---
+
+## 🧑‍💻 About Me
+- 🌐 Specializing in **Web Development (MERN Stack)**
+- 🐍 Fluent in **Python** and **C++**
+- 🎬 Skilled in **Video Editing**  
+- 🎶 Love creating & **Mixing/Mastering Music Tracks**
+- 🌱 Always learning, always experimenting  
+
+---
+
+## 🛠️ Tech Stack  
+### 💻 Programming  
+- **Languages:** Python, C++, JavaScript  
+- **Web:** React.js, Node.js, Express.js, MongoDB  
+
+### 🎨 Creative  
+- **Video Editing Tools:** Adobe Premiere Pro, After Effects  
+- **Audio Production:** FL Studio, Logic Pro  
+
+---
+
+## 📌 Featured Goals  
+- 🔥 Build full-stack projects that scale  
+- 🎧 Release more music collaborations  
+- 🎥 Grow my editing portfolio  
+
+---
+
+## 🌐 Connect With Me  
+📸 Instagram: [@mai_akshat_hu](https://instagram.com/mai_akshat_hu)  
+
+---
+
+💡 *"Code like an artist, create like an engineer."*  
